@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560936744 source:c:\users\eanzo\onedrive\second year degree\algorithm analysis and design\assignment\assignment 1\2. freq of elements\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+
